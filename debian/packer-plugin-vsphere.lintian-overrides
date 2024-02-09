@@ -1,0 +1,6 @@
+packer-plugin-vsphere: copyright-without-copyright-notice
+packer-plugin-vsphere: initial-upload-closes-no-bugs
+packer-plugin-vsphere: no-manual-page
+packer-plugin-vsphere: shared-library-lacks-prerequisites
+packer-plugin-vsphere: statically-linked-binary
+packer-plugin-vsphere: zero-byte-file-in-doc-directory
